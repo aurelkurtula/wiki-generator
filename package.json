@@ -1,0 +1,19 @@
+{
+  "name": "000-writing.wiki",
+  "version": "1.0.0",
+  "main": "create.js",
+  "scripts": {
+    "gitit": "git add . && git commit -a -m 'update' && git push --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/DailyDesign/000-writing.wiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/DailyDesign/000-writing.wiki/issues"
+  },
+  "homepage": "https://gitlab.com/DailyDesign/000-writing.wiki#README",
+  "description": ""
+}
